@@ -1,0 +1,6 @@
+name: BlockPiglinsTranformation
+version: ${project.version}
+main: com.ssomar.blockpiglinstransformation.BlockPiglinsTransformation
+api-version: 1.16
+author: Ssomar
+description: Block the transformation of the Piglins
